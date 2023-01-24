@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            ze Afranio
+            Jose Afranio Volpato Junior
            </p>
           <div>
             <a
